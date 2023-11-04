@@ -1,0 +1,25 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'SF Pro Display', sans-serif;
+}
+.bg{
+    background-image: url(background.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.welcome-text {
+    
+    font-size: 25px;
+    text-align: center;
+}
+.container {
+    border-radius: 0px;
+    max-width: 375px;
+}
